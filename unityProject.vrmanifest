@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.vrtk_gr.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "F:\\VRTK_GR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "VRTK_GR [Testing]"
+        }
+      }
+    }
+  ]
+}
